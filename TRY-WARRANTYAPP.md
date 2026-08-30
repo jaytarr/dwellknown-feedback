@@ -6,7 +6,7 @@ document, password, or payment information.
 
 ## Install and sign in
 
-1. On an Android phone, open [Install WarrantyApp](https://expo.dev/accounts/cre8worlds-team/projects/cre8worlds/builds/209e4ad4-3430-4287-bb83-0fe6306db65f).
+1. On an Android phone, open [Install WarrantyApp](https://expo.dev/accounts/cre8worlds-team/projects/cre8worlds/builds/61a22033-7c7e-4e55-97b3-e70ec47b8ec0).
 2. Download and install the Android build. If Android asks whether to allow an
    install from the browser, allow it for this install only.
 3. Open WarrantyApp.
@@ -52,7 +52,7 @@ photo, document, mot de passe ou renseignement de paiement.
 
 ## Installer l’application et ouvrir une session
 
-1. Sur un téléphone Android, ouvrez [Installer WarrantyApp](https://expo.dev/accounts/cre8worlds-team/projects/cre8worlds/builds/209e4ad4-3430-4287-bb83-0fe6306db65f).
+1. Sur un téléphone Android, ouvrez [Installer WarrantyApp](https://expo.dev/accounts/cre8worlds-team/projects/cre8worlds/builds/61a22033-7c7e-4e55-97b3-e70ec47b8ec0).
 2. Téléchargez et installez l’application. Si Android demande l’autorisation
    d’installer à partir du navigateur, accordez-la uniquement pour cette
    installation.
