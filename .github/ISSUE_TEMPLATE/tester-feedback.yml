@@ -1,0 +1,62 @@
+name: WarrantyApp tester feedback / Commentaires des testeurs
+description: Tell us what happened. / Dites-nous ce qui s’est passé.
+title: "[Tester feedback / Commentaires] "
+labels:
+  - tester-feedback
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Reports are public.** Do not include passwords, sign-in codes, home addresses, record contents, photos, documents, receipts, or payment information.
+
+        **Les rapports sont publics.** N’incluez pas de mot de passe, de code d’ouverture de session, d’adresse de domicile, de contenu de dossier, de photo, de document, de reçu ni de renseignement de paiement.
+  - type: dropdown
+    id: feedback_type
+    attributes:
+      label: What kind of feedback is this? / Quel type de commentaire souhaitez-vous transmettre?
+      options:
+        - Something did not work / Quelque chose n’a pas fonctionné
+        - Something was confusing / Quelque chose n’était pas clair
+        - I have an improvement idea / J’ai une idée d’amélioration
+    validations:
+      required: true
+  - type: textarea
+    id: attempted_action
+    attributes:
+      label: What were you trying to do? / Que tentiez-vous de faire?
+      description: Do not include private home or warranty details. / N’incluez pas de renseignements privés sur votre domicile ou vos garanties.
+      placeholder: I opened Records and tried to add a record. / J’ai ouvert Dossiers et tenté d’ajouter un dossier.
+    validations:
+      required: true
+  - type: textarea
+    id: visible_result
+    attributes:
+      label: What happened? / Que s’est-il passé?
+      description: Include the exact message only if it contains no private information. / Indiquez le message exact seulement s’il ne contient aucun renseignement privé.
+    validations:
+      required: true
+  - type: input
+    id: approximate_time
+    attributes:
+      label: About when did this happen? / Vers quelle heure cela s’est-il produit?
+      description: Include your time zone. / Indiquez votre fuseau horaire.
+      placeholder: August 30 around 5:30 PM Eastern / 30 août vers 17 h 30, heure de l’Est
+    validations:
+      required: true
+  - type: textarea
+    id: expected_result
+    attributes:
+      label: What did you expect instead? / À quoi vous attendiez-vous?
+      description: Optional. / Facultatif.
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot / Capture d’écran
+      description: Optional. Remove or cover all private information first. / Facultatif. Supprimez ou masquez d’abord tout renseignement privé.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check / Vérification de confidentialité
+      options:
+        - label: I did not include credentials, sign-in codes, addresses, record contents, photos, documents, receipts, or payment information. / Je n’ai inclus aucun identifiant, code d’ouverture de session, adresse, contenu de dossier, photo, document, reçu ni renseignement de paiement.
+          required: true
