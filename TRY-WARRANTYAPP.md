@@ -1,6 +1,7 @@
-# Try WarrantyApp on Android
+# Try DwellKnown on Android
 
-This early-access build tests the first complete WarrantyApp journey. It uses
+This early-access build tests the first complete DwellKnown journey.
+The current Preview installs under the name WarrantyApp. It uses
 shared test data, so do not enter real home, product, warranty, receipt, photo,
 document, password, or payment information.
 
@@ -33,7 +34,7 @@ closed and reopened.
 ## Send feedback
 
 In WarrantyApp, open **Account** → **Support** → **Send feedback**, or open
-[Send WarrantyApp feedback](https://github.com/jaytarr/warrantyapp-feedback/issues/new?template=tester-feedback.yml).
+[Send DwellKnown feedback](https://github.com/jaytarr/dwellknown-feedback/issues/new?template=tester-feedback.yml).
 
 Tell us approximately when the problem occurred, what you tried, and what you
 saw. Reports are public and require a GitHub sign-in. Do not include
@@ -43,10 +44,11 @@ was supplied and will correlate that information internally.
 
 ---
 
-# Essayer WarrantyApp sur Android
+# Essayer DwellKnown sur Android
 
 Cette version d’accès anticipé sert à tester le premier parcours complet de
-WarrantyApp. Elle utilise des données de test partagées. N’entrez aucun
+DwellKnown. La version Preview actuelle s’installe sous le nom WarrantyApp.
+Elle utilise des données de test partagées. N’entrez aucun
 renseignement réel sur un domicile, un produit ou une garantie, ni aucun reçu,
 photo, document, mot de passe ou renseignement de paiement.
 
@@ -81,7 +83,7 @@ réouverture de l’application.
 ## Envoyer des commentaires
 
 Dans WarrantyApp, ouvrez **Compte** → **Soutien** → **Envoyer des
-commentaires**, ou ouvrez [Envoyer des commentaires sur WarrantyApp](https://github.com/jaytarr/warrantyapp-feedback/issues/new?template=tester-feedback.yml).
+commentaires**, ou ouvrez [Envoyer des commentaires sur DwellKnown](https://github.com/jaytarr/dwellknown-feedback/issues/new?template=tester-feedback.yml).
 
 Indiquez approximativement l’heure du problème, ce que vous tentiez de faire et
 ce que vous avez vu. Les rapports sont publics et nécessitent une ouverture de
