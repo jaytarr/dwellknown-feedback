@@ -1,19 +1,16 @@
 # Try DwellKnown on Android
 
-This early-access build tests the first complete DwellKnown journey.
-The current Preview installs under the name WarrantyApp. It uses
-shared test data, so do not enter real home, product, warranty, receipt, photo,
-document, password, or payment information.
+The private DwellKnown Android Preview uses shared test data. Use sample details and leave real home, product, warranty, receipt, photo, document, password, and payment information out of the test.
 
 ## Install and sign in
 
-1. On an Android phone, open [Install the Android Preview](https://expo.dev/accounts/cre8worlds-team/projects/cre8worlds/builds/61a22033-7c7e-4e55-97b3-e70ec47b8ec0).
-2. Download and install the Android build. If Android asks whether to allow an
-   install from the browser, allow it for this install only.
-3. Open the app.
-4. In **Tester access**, enter the test email and test password supplied to you
-   privately, then select **Sign in**. These are sign-in credentials for the
-   shared test account; they are not app settings.
+1. Open the private Android Preview link supplied by the DwellKnown team. If
+   the link has expired, ask the team for the current build.
+2. Download and install the build. If Android asks you to allow installations
+   from your browser, allow it for this install only.
+3. Open **DwellKnown**.
+4. Under **Tester access**, choose **Free homeowner** and select **Continue**.
+   If the project team assigned you another testing profile, use that one.
 
 ## Complete the first journey
 
@@ -46,23 +43,22 @@ was supplied and will correlate that information internally.
 
 # Essayer DwellKnown sur Android
 
-Cette version d’accès anticipé sert à tester le premier parcours complet de
-DwellKnown. La version Preview actuelle s’installe sous le nom WarrantyApp.
-Elle utilise des données de test partagées. N’entrez aucun
-renseignement réel sur un domicile, un produit ou une garantie, ni aucun reçu,
-photo, document, mot de passe ou renseignement de paiement.
+La version Preview privée de DwellKnown pour Android utilise des données de test
+partagées. Utilisez des exemples et laissez de côté tout renseignement réel sur
+un domicile, un produit ou une garantie, ainsi que les reçus, photos, documents,
+mots de passe et renseignements de paiement.
 
 ## Installer l’application et ouvrir une session
 
-1. Sur un téléphone Android, ouvrez [Installer la version Preview pour Android](https://expo.dev/accounts/cre8worlds-team/projects/cre8worlds/builds/61a22033-7c7e-4e55-97b3-e70ec47b8ec0).
-2. Téléchargez et installez l’application. Si Android demande l’autorisation
-   d’installer à partir du navigateur, accordez-la uniquement pour cette
-   installation.
-3. Ouvrez l’application.
-4. Dans **Accès pour les testeurs**, entrez le courriel et le mot de passe de
-   test qui vous ont été transmis en privé, puis sélectionnez **Ouvrir une
-   session**. Il s’agit des identifiants du compte de test partagé, et non de
-   paramètres de l’application.
+1. Ouvrez le lien privé pour Android fourni par l’équipe DwellKnown. Si le lien
+   a expiré, demandez à l’équipe la version actuelle.
+2. Téléchargez et installez l’application. Si Android vous demande d’autoriser
+   l’installation à partir du navigateur, accordez cette autorisation pour
+   cette installation seulement.
+3. Ouvrez **DwellKnown**.
+4. Dans **Accès pour les testeurs**, choisissez **Propriétaire — offre gratuite**,
+   puis **Continuer**. Si l’équipe vous a attribué un autre profil de test,
+   utilisez celui-ci.
 
 ## Effectuer le premier parcours
 
